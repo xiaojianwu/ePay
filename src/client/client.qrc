@@ -1,4 +1,22 @@
 <RCC>
-    <qresource prefix="client">
+    <qresource prefix="/">
+        <file>Resources/image/add-line_horizontal.png</file>
+        <file>Resources/image/add-line_vertical.png</file>
+        <file>Resources/image/array_down.png</file>
+        <file>Resources/image/checkbox_checked.png</file>
+        <file>Resources/image/checkbox_unchecked.png</file>
+        <file>Resources/image/error.png</file>
+        <file>Resources/image/info.png</file>
+        <file>Resources/image/question.png</file>
+        <file>Resources/image/radio_normal.png</file>
+        <file>Resources/image/radio_selected.png</file>
+        <file>Resources/image/sub-line_horizontal.png</file>
+        <file>Resources/image/sub-line_vertical.png</file>
+        <file>Resources/css/black.css</file>
+        <file>Resources/css/blue.css</file>
+        <file>Resources/css/gray.css</file>
+        <file>Resources/css/navy.css</file>
+        <file>Resources/font/fontawesome-webfont.ttf</file>
+        <file>Resources/translation/qt_zh_CN.qm</file>
     </qresource>
 </RCC>
