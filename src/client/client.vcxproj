@@ -201,6 +201,25 @@
     <None Include="Resources\css\blue.css" />
     <None Include="Resources\css\gray.css" />
     <None Include="Resources\css\navy.css" />
+    <None Include="Resources\translation\qt_zh_CN.qm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\image\add-line_horizontal.png" />
+    <Image Include="Resources\image\add-line_vertical.png" />
+    <Image Include="Resources\image\array_down.png" />
+    <Image Include="Resources\image\checkbox_checked.png" />
+    <Image Include="Resources\image\checkbox_unchecked.png" />
+    <Image Include="Resources\image\error.png" />
+    <Image Include="Resources\image\Font Awesome Cheatsheet.png" />
+    <Image Include="Resources\image\info.png" />
+    <Image Include="Resources\image\question.png" />
+    <Image Include="Resources\image\radio_normal.png" />
+    <Image Include="Resources\image\radio_selected.png" />
+    <Image Include="Resources\image\sub-line_horizontal.png" />
+    <Image Include="Resources\image\sub-line_vertical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\font\fontawesome-webfont.ttf" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

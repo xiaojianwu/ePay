@@ -36,6 +36,15 @@
     <Filter Include="Resource Files\css">
       <UniqueIdentifier>{096a03a3-1677-4952-9ec1-ea499fb863ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\image">
+      <UniqueIdentifier>{72807206-fb76-426e-9973-5e640a7ad4d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\font">
+      <UniqueIdentifier>{6a3f9eea-cf8f-4865-b1ec-6daf054ac5ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\translation">
+      <UniqueIdentifier>{f4d3ee50-277a-4c4f-ba1c-90c0c0ed14fe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -131,5 +140,54 @@
     <None Include="Resources\css\navy.css">
       <Filter>Resource Files\css</Filter>
     </None>
+    <None Include="Resources\translation\qt_zh_CN.qm">
+      <Filter>Resource Files\translation</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\image\add-line_horizontal.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\add-line_vertical.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\array_down.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\checkbox_checked.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\checkbox_unchecked.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\error.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\Font Awesome Cheatsheet.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\info.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\question.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\radio_normal.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\radio_selected.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\sub-line_horizontal.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+    <Image Include="Resources\image\sub-line_vertical.png">
+      <Filter>Resource Files\image</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\font\fontawesome-webfont.ttf">
+      <Filter>Resource Files\font</Filter>
+    </Font>
   </ItemGroup>
 </Project>
